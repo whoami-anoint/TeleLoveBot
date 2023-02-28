@@ -29,7 +29,7 @@ To use TeleLoveBot, you need the following:
 
 To install <b>TeleLoveBot </b>, follow these steps:
  
- 1. Clone or download the TeleLoveBot project from the Github repository at https://github.com/[username]/telelovebot. Replace [username] with your Github username.
+ 1. Clone or download the TeleLoveBot project from the Github repository at https://github.com/whoami-anoint/telelovebot.
  2. Open the config.py file in a text editor and replace the BOT_TOKEN and CHAT_ID variables with your actual bot token obtained from BotFather and your girlfriend's Telegram chat ID, respectively.
  3. Customize the LOVE_QUOTES list with your own list of love quotes, or use the default list provided.
  4. Save the config.py file and close the text editor.
